@@ -1,8 +1,8 @@
-###**Sobre mim**
+#### **Sobre mim**
 - Ana Carolina Simas
 - Acadêmica de Análise e Desenvolvimento de sistemas (2/5)
 
-####Conheça mais sobre mim: 
+###### Conheça mais sobre mim: 
 
 [Linkedin](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
 
