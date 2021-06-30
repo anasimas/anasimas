@@ -1,8 +1,8 @@
-<font color = "#009973">**Sobre mim**:</font>
+###**Sobre mim**
 - Ana Carolina Simas
 - Acadêmica de Análise e Desenvolvimento de sistemas (2/5)
 
-<font color = "#008060"> Conheça mais sobre mim: </font>
+####Conheça mais sobre mim: 
 
 [Linkedin](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
 
