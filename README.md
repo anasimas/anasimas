@@ -1,5 +1,5 @@
 ## **👋 Sobre mim**
-<img align="right" alt="programming" width="300" style="max witdh:100%;" src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564">
+<img align="right" alt="programming" width="250" style="max witdh:100%;" src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564">
 
 - Ana Carolina Simas 🧍🏻‍♀️
 - Brasil, SC 📍
