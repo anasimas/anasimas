@@ -1,4 +1,6 @@
 ## **👋 Sobre mim**
+<img align="right" alt="programming" width="275" style="max witdh:100%;" src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564">
+
 - Ana Carolina Simas 🧍🏻‍♀️
 - Brasil, SC 📍
 - Tecnólogo em ADS (2/5) 📚 
@@ -17,4 +19,4 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" heigth="40" style="max witdh:100%;"></img>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" heigth="40" style="max witdh:100%;"></img>
 
-<img align="center" alt="programming" width="200" style="max witdh:100%;" src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564"></img>
+</img>
