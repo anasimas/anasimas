@@ -16,5 +16,4 @@
 ](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
 
 ## 📝**Aprendendo**
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" heigth="40" style="max witdh:100%;"></img>
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" heigth="40" style="max witdh:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" heigth="40" style="max witdh:100%;"></img>
