@@ -17,3 +17,4 @@
 
 ## 📝**Aprendendo**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" heigth="40" style="max witdh:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" heigth="40" style="max witdh:100%;"></img>
