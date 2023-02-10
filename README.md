@@ -6,6 +6,8 @@
 - Tecnólogo em ADS (2/5) 📚 
 - Biomédica 🔬
 
+Acesse meu [site](https://codepen.io/anasimas)!
+
 ## 🌺 **Minhas redes sociais** 
 
 [
