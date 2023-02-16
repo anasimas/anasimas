@@ -2,7 +2,6 @@
 <div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasimas&layout=compact&theme=omni">
-<img align="right" alt="programming" width="150" style="max witdh:100%;" src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564">
 
 - Ana Carolina Simas 🧍🏻‍♀️
 - Brasil, SC 📍
@@ -22,7 +21,7 @@ Acesse meu [site](https://anasimas.github.io)!
 
 ## 📝**Aprendendo**
 <div style="display: inline_block">
-
+<img align="right" alt="programming" width="150" style="max witdh:100%;" src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" heigth="40" style="max witdh:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" heigth="40" style="max witdh:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" heigth="40" style="max witdh:100%;">
