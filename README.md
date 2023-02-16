@@ -8,7 +8,7 @@
 
 Acesse meu [site](https://anasimas.github.io)!
 
-## 🌺 **Minhas redes sociais** 
+## 🌺 **Minhas redes** 
 
 [
 ![Gmail](https://img.shields.io/badge/-Gmail-%23cc0066)
@@ -16,7 +16,15 @@ Acesse meu [site](https://anasimas.github.io)!
 [
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23ff0080)
 ](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
+[
+![Codepen](https://img.shields.io/badge/-Codepen-ff69b4)
+](https://codepen.io/anasimas)
+
 
 ## 📝**Aprendendo**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" heigth="40" style="max witdh:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" heigth="40" style="max witdh:100%;"></img>
+<div style="display: inline_block">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" heigth="40" style="max witdh:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" heigth="40" style="max witdh:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" heigth="40" style="max witdh:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" heigth="40" style="max witdh:100%;">
+</div>
