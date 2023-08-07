@@ -26,6 +26,7 @@ Acesse meu [site](https://anasimas.github.io)!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" heigth="40" style="max witdh:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" heigth="40" style="max witdh:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" heigth="40" style="max witdh:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" heigth="40" style="max witdh:100%;"/>
 </div>
 
 
