@@ -13,10 +13,8 @@ Acesse meu [site](https://anasimas.github.io)!
 
 ## 🌺 **Minhas redes** 
 <div>
-
-[![E-mail](https://img.shields.io/badge/-Gmail-%23cc0066)](mailto:ana.simas2109@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23ff0080)](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
-[![Codepen](https://img.shields.io/badge/-Codepen-ff69b4)](https://codepen.io/anasimas)
+<a href="mailto:ana.simas2109@outlook.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-pink"></a>
+<a href="https://www.linkedin.com/in/ana-carolina-lambertucci-simas/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-pink"></a>
 </div>
 
 ## 📝**Aprendendo**
