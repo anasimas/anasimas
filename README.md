@@ -14,7 +14,7 @@ Acesse meu [site](https://anasimas.github.io)!
 ## 🌺 **Minhas redes** 
 <div>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23cc0066)](mailto:analambertuccisimas@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Gmail-%23cc0066)](mailto:ana.simas2109@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23ff0080)](https://www.linkedin.com/in/ana-carolina-lambertucci-simas/)
 [![Codepen](https://img.shields.io/badge/-Codepen-ff69b4)](https://codepen.io/anasimas)
 </div>
