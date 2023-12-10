@@ -5,7 +5,7 @@
 
 - Ana Carolina Simas 🧍🏻‍♀️
 - Brasil, SC 📍
-- Tecnólogo em ADS (2/4) 📚 
+- Tecnólogo em ADS (3/4) 📚 
 - Biomédica 🔬
 
 Acesse meu [site](https://anasimas.github.io)!
