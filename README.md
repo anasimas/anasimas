@@ -5,6 +5,7 @@
 
 - Ana Carolina Simas 🧍🏻‍♀️
 - Brasil, SC 📍
+- Trabalho como Analista de Sistemas Jr na rede Bom Jesus/IELUSC
 - Tecnólogo em ADS (3/4) 📚 
 - Biomédica 🔬
 
