@@ -28,7 +28,7 @@ Acesse meu [site](https://anasimas.github.io)!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" heigth="40" style="max witdh:100%;"/>
 </div>
 
-## **Conheça a minha equipe:**
+## 🧍🏻‍♀️**Conheça a minha equipe:**
 <div>
   <img src = estagiarios.png width="400" style="max width:100%">
 </div>
