@@ -28,4 +28,10 @@ Acesse meu [site](https://anasimas.github.io)!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" heigth="40" style="max witdh:100%;"/>
 </div>
 
+<div>
+  <p>Conheça a equipe de desenvolvimento:</p>
+  ![estagiarios](https://github.com/anasimas/anasimas/assets/86128673/e93d4034-eb2f-4f1d-bb4b-d170070689f6)
+</div>
+
+
 
